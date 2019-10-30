@@ -18,7 +18,7 @@ Need to accept payments in a new region? Tired of poor documentation, stability 
 
 # Providers
 ## Paystack-NG
-* API Documentation: 4/5
+* API Documentation: 4/5 (https://developers.paystack.co/reference)
 * Developer support: 3/5
 * System stability: 4/5
 * API features: RESTful, JSON
