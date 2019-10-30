@@ -16,6 +16,9 @@ Need to accept payments in a new region? Tired of poor documentation, stability 
 ## Wire
 [Paystack](#paystack-ng)
 
+## Debit card
+[Paystack](#paystack-ng)
+
 # Providers
 ## Paystack-NG
 * API Documentation: 4/5 (https://developers.paystack.co/reference)
